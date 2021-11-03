@@ -2,7 +2,7 @@
   "name": "docusaurus-starter",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/WebDevStudios/docusaurus-starter/blob/main/README.md",
+  "homepage": "https://docusaurus-starter-tau.vercel.app",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WebDevStudios/docusaurus-starter.git"
