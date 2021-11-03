@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 module.exports = {
   title: 'Client Website Documentation',
   tagline: 'Documentation for your brand new website from WebDevStudios',
-  url: 'https://webdevstudios.github.io',
+  url: 'https://docusaurus-starter-tau.vercel.app',
   baseUrl: '/docusaurus-starter/',
   organizationName: 'webdevstudios',
   projectName: 'docusaurus-starter',
