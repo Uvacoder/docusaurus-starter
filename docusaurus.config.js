@@ -6,7 +6,7 @@ module.exports = {
   title: 'Client Website Documentation',
   tagline: 'Documentation for your brand new website from WebDevStudios',
   url: 'https://docusaurus-starter-tau.vercel.app',
-  baseUrl: '/docusaurus-starter/',
+  baseUrl: '/',
   organizationName: 'webdevstudios',
   projectName: 'docusaurus-starter',
   trailingSlash: false,
